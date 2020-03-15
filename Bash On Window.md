@@ -89,6 +89,7 @@ Exemple:
 ```bash
 cd $u
 ```
+___
 
 #### Si vous utiliser les produits JetBrains
 Il est possible de changer le terminal par defaut de JetBrain pour celui de bash. Simplement faire ceci:
