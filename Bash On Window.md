@@ -62,7 +62,7 @@ bash -c zsh
 
 Éviter que Unbuntu nous redemande le password pour sudo
 ```
-sudo nano etc/sudoers
+sudo nano /etc/sudoers
 
 Ajouter:
 #Représente 300min donc 5h
