@@ -91,7 +91,7 @@ cd $u
 ```
 ___
 
-#### Si vous utiliser les produits JetBrains
+#### Si vous utilisez les produits JetBrains
 Il est possible de changer le terminal par defaut de JetBrain pour celui de bash. Simplement faire ceci:
 - Accèder au menu des settings (Shift 2x et inscrire settings)
 - Dans `Terminal`. Inscrire le `Shell Path`: `C:\Windows\System32\bash.exe`
