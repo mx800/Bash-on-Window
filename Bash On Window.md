@@ -2,14 +2,14 @@
 
 #### Installation de Bash sur window
 https://www.lifewire.com/install-bash-on-windows-10-4101773
-- Activer les paramètre développeur
+- Activer les paramètres développeur
 Settings -> update and security -> For developpers > Developper mode
 
 - Ajouter la fonctionnalité Linux
 Fonctionnalité window -> Windows Subsystem For Linux
 
 - Installer Bash
-Window Strore -> Unbuntu
+Window Store -> Ubuntu
 
 ___
 #### Installation de Cmder
@@ -60,7 +60,7 @@ nano ~/.bashrc
 bash -c zsh
 ```
 
-Éviter que Unbuntu nous redemande le password pour sudo
+Éviter que Ubuntu nous redemande le password pour sudo
 ```
 sudo nano /etc/sudoers
 
